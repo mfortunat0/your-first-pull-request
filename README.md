@@ -41,3 +41,4 @@ Caso deseja contribuir com este projeto seja o que for, estará aberto a Pull re
 
 ## Lista pessoas
 * [Matheus fortunato](https://github.com/mfortunat0)
+* [Victor Taveira](https://github.com/viktortav)
